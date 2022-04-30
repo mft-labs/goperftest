@@ -12,6 +12,6 @@ Usage:
 1) Support to push files to SFTP Server with password as well as private key
 
 
-###Planning:
+###Roadmap:
 1) Analyse the performance and generate report
 
